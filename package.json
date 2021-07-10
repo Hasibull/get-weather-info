@@ -1,0 +1,15 @@
+{
+  "name": "get-weather-info",
+  "version": "1.0.0",
+  "description": "Get weather info is a app which provide weather information of the selected city. we use openWeatherMap api for collecting data.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hasibul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
